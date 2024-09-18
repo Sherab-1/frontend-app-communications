@@ -15,6 +15,7 @@ import plMessages from './messages/pl.json';
 import ptbrMessages from './messages/pt_br.json';
 import ruMessages from './messages/ru.json';
 import thMessages from './messages/th.json';
+import boMessages from './messages/bo.json';
 import ukMessages from './messages/uk.json';
 
 const appMessages = {
@@ -30,6 +31,7 @@ const appMessages = {
   'pt-br': ptbrMessages,
   ru: ruMessages,
   th: thMessages,
+  bo: boMessages,
   uk: ukMessages,
 };
 
